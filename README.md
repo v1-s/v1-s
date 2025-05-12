@@ -29,7 +29,8 @@ A passionate **Full-Stack Developer** with **3.8 years** of hands-on experience 
 
 ## 🤝 Let’s Connect & Collaborate
 
-- 💼 [LinkedIn: Vishnupriya Polimera]:(https://linkedin.com/in/vishnupriya-polimera)
+- 💼 [Vishnupriya Polimera on LinkedIn](https://linkedin.com/in/vishnupriya-polimera)
+
 - 📫 Email: thepriya176@gmail.com
 
 ---
