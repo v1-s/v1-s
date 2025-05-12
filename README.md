@@ -25,7 +25,7 @@ A passionate **Full-Stack Developer** with **3.8 years** of hands-on experience 
   A personal website showcasing my work, journey, and contact links.  
   👉 [View Portfolio](https://your-deployed-portfolio-link.com)
 
-
+---
 ## 🤝 Let’s Connect & Collaborate
 
 - 💼 [Vishnupriya Polimera on LinkedIn](https://linkedin.com/in/vishnupriya-polimera)
