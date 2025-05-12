@@ -15,13 +15,13 @@ A passionate **Full-Stack Developer** with **3.8 years** of hands-on experience 
 
 ## 🛠️ Projects That Speak for Themselves
 
-- **🛍 E-commerce Website**  
+- 🛍 E-commerce Website**  
   Built a responsive shopping platform with cart functionality, product filtering, and smooth navigation using React and Tailwind CSS.
 
-- **📋 Employee Management System**  
+- 📋 Employee Management System**  
   Designed and implemented a full-featured CRUD system using React and Redux, streamlining employee records and admin controls.
 
-- **🌐 Portfolio Website**  
+- 🌐 Portfolio Website**  
   A personal website showcasing my work, journey, and contact links.  
   👉 [View Portfolio](https://your-deployed-portfolio-link.com)
 
